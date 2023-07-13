@@ -24,3 +24,6 @@ npm start
 Here we have project screenshot :
 
 ![screenshot](screenshot.jpeg)
+
+## License
+This repo is published under the MIT license. For more information, please see the [LICENSE](https://github.com/efxlve/monsters-rolodex/blob/main/LICENSE) file.
